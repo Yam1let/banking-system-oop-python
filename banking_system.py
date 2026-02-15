@@ -1,7 +1,6 @@
 """
 Banking System - OOP in Python
 Author: Yam1let
-Date: February 2026
 """
 
 class BankAccount:
@@ -114,5 +113,6 @@ if __name__ == "__main__":
 
     print(account1)
     print(account2)
+
 
 
